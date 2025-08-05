@@ -1,9 +1,32 @@
 
+# SlimSTAD Project
 
-## 使用
-按照requirements.txt配置环境
-在项目根目录下打开终端输入python setup.py install
+## Usage
 
-## 注意事项
+1. Install dependencies according to `requirements.txt`:
 
-运行前可以修改/STAD-mian/configs/thumos14.yaml里的参数，运行./STAD-main/run.sh文件。经测试可以在linux多卡机上运行
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Install the project:
+
+   ```bash
+   python setup.py install
+   ```
+
+## Notes
+
+Before running, you can modify parameters in the configuration file located at:
+
+```
+/STAD-main/configs/thumos14.yaml
+```
+
+Then, execute the following script from the project root:
+
+```bash
+./STAD-main/run.sh
+```
+
+This setup has been tested and is confirmed to work on a Linux system.
