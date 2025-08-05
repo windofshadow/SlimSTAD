@@ -1,0 +1,2256 @@
+{
+    "database": {
+        "7.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "5000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "7500"
+                    ],
+                    "label": "wave"
+                }
+            ]
+        },
+        "14.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "1500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "2000",
+                        "3500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8500"
+                    ],
+                    "label": "run"
+                }
+            ]
+        },
+        "21.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8000"
+                    ],
+                    "label": "jump"
+                }
+            ]
+        },
+        "28.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "3500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "5000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "8000"
+                    ],
+                    "label": "run"
+                }
+            ]
+        },
+        "35.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "5500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "7500"
+                    ],
+                    "label": "jump"
+                }
+            ]
+        },
+        "42.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "1500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "2000",
+                        "3500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "6000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8000"
+                    ],
+                    "label": "walk"
+                }
+            ]
+        },
+        "49.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8000"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "56.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "5500",
+                        "6500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8500"
+                    ],
+                    "label": "wave"
+                }
+            ]
+        },
+        "63.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "7500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "8000",
+                        "8500"
+                    ],
+                    "label": "bend"
+                }
+            ]
+        },
+        "70.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8000"
+                    ],
+                    "label": "walk"
+                }
+            ]
+        },
+        "77.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8500"
+                    ],
+                    "label": "run"
+                }
+            ]
+        },
+        "84.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "7000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "7500",
+                        "8500"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "91.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "7500"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "98.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "1500"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "3000"
+                    ],
+                    "label": "stand"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "6000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8500"
+                    ],
+                    "label": "walk"
+                }
+            ]
+        },
+        "105.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "7000"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "7500",
+                        "8500"
+                    ],
+                    "label": "bend"
+                }
+            ]
+        },
+        "112.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "5000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "5500",
+                        "7000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8000"
+                    ],
+                    "label": "jump"
+                }
+            ]
+        },
+        "119.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "3500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8500"
+                    ],
+                    "label": "wave"
+                }
+            ]
+        },
+        "126.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "1500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "2000",
+                        "4000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8000"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "133.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "1500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8500"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "140.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "1500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6000"
+                    ],
+                    "label": "stand"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8500"
+                    ],
+                    "label": "walk"
+                }
+            ]
+        },
+        "147.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8000"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "154.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6000"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "7500"
+                    ],
+                    "label": "stand"
+                }
+            ]
+        },
+        "161.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "5500",
+                        "7000"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "7500",
+                        "8500"
+                    ],
+                    "label": "stand"
+                }
+            ]
+        },
+        "168.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8000"
+                    ],
+                    "label": "jump"
+                }
+            ]
+        },
+        "175.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8500"
+                    ],
+                    "label": "wave"
+                }
+            ]
+        },
+        "182.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8500"
+                    ],
+                    "label": "run"
+                }
+            ]
+        },
+        "189.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8500"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "196.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "7000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "7500",
+                        "8500"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "203.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6000"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8000"
+                    ],
+                    "label": "stand"
+                }
+            ]
+        },
+        "210.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "7000"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "7500",
+                        "8500"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "217.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "3000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "5000"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "5500",
+                        "7000"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8500"
+                    ],
+                    "label": "stand"
+                }
+            ]
+        },
+        "224.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "2000",
+                        "4000"
+                    ],
+                    "label": "stand"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "6000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8500"
+                    ],
+                    "label": "wave"
+                }
+            ]
+        },
+        "231.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8000"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "238.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8000"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "245.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "stand"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8500"
+                    ],
+                    "label": "wave"
+                }
+            ]
+        },
+        "252.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "5000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6500"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "7500",
+                        "8500"
+                    ],
+                    "label": "stand"
+                }
+            ]
+        },
+        "259.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "5500",
+                        "6500"
+                    ],
+                    "label": "stand"
+                },
+                {
+                    "segment": [
+                        "7500",
+                        "8500"
+                    ],
+                    "label": "bend"
+                }
+            ]
+        },
+        "266.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "3500",
+                        "5500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "8500"
+                    ],
+                    "label": "wave"
+                }
+            ]
+        },
+        "273.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "3000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "3500",
+                        "5500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "8500"
+                    ],
+                    "label": "run"
+                }
+            ]
+        },
+        "280.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "3500",
+                        "5000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "7500"
+                    ],
+                    "label": "wave"
+                }
+            ]
+        },
+        "287.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "3500",
+                        "5500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "7500"
+                    ],
+                    "label": "jump"
+                }
+            ]
+        },
+        "294.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "3500",
+                        "5500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "8000"
+                    ],
+                    "label": "bend"
+                }
+            ]
+        },
+        "301.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "5500",
+                        "7000"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "308.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "5500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "7500"
+                    ],
+                    "label": "jump"
+                }
+            ]
+        },
+        "315.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "5500",
+                        "7000"
+                    ],
+                    "label": "bend"
+                }
+            ]
+        },
+        "322.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "3500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "6000"
+                    ],
+                    "label": "wave"
+                }
+            ]
+        },
+        "329.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "3500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "3500",
+                        "5000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "5500",
+                        "7500"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "336.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "3500",
+                        "4500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "5500",
+                        "7000"
+                    ],
+                    "label": "bend"
+                }
+            ]
+        },
+        "343.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "1500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "3500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "5500"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "350.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4000"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6000"
+                    ],
+                    "label": "stand"
+                }
+            ]
+        },
+        "357.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8000"
+                    ],
+                    "label": "walk"
+                }
+            ]
+        },
+        "364.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "7000"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8500"
+                    ],
+                    "label": "run"
+                }
+            ]
+        },
+        "371.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8000"
+                    ],
+                    "label": "run"
+                }
+            ]
+        },
+        "378.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "7000"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "7500",
+                        "8500"
+                    ],
+                    "label": "jump"
+                }
+            ]
+        },
+        "385.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8000"
+                    ],
+                    "label": "jump"
+                }
+            ]
+        },
+        "392.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8500"
+                    ],
+                    "label": "wave"
+                }
+            ]
+        },
+        "399.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "2000",
+                        "3500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "3500",
+                        "5000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6500"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "406.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "1500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "7000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "7500",
+                        "8500"
+                    ],
+                    "label": "jump"
+                }
+            ]
+        },
+        "413.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "5500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "7500"
+                    ],
+                    "label": "bend"
+                }
+            ]
+        },
+        "420.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "3500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "5500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "7500"
+                    ],
+                    "label": "wave"
+                }
+            ]
+        },
+        "427.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "1500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "2000",
+                        "4000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "5500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8000"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "434.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8000"
+                    ],
+                    "label": "bend"
+                }
+            ]
+        },
+        "441.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "1500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "2000",
+                        "3500"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "5000"
+                    ],
+                    "label": "stand"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "7500"
+                    ],
+                    "label": "jump"
+                }
+            ]
+        },
+        "448.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "3500"
+                    ],
+                    "label": "stand"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "6000"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "7500"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        },
+        "455.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "3500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "5500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "7500"
+                    ],
+                    "label": "jump"
+                }
+            ]
+        },
+        "462.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "1000",
+                        "2500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "3000",
+                        "4500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "5000",
+                        "6500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "7000",
+                        "8500"
+                    ],
+                    "label": "run"
+                }
+            ]
+        },
+        "469.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "2000",
+                        "3500"
+                    ],
+                    "label": "run"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "5500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "5500",
+                        "8000"
+                    ],
+                    "label": "run"
+                }
+            ]
+        },
+        "476.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "5500"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "5500",
+                        "7500"
+                    ],
+                    "label": "walk"
+                }
+            ]
+        },
+        "483.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "2000",
+                        "4000"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6000"
+                    ],
+                    "label": "jump"
+                },
+                {
+                    "segment": [
+                        "6500",
+                        "8000"
+                    ],
+                    "label": "walk"
+                }
+            ]
+        },
+        "490.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2000"
+                    ],
+                    "label": "bend"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "3500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "4000",
+                        "6000"
+                    ],
+                    "label": "wave"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "8000"
+                    ],
+                    "label": "walk"
+                }
+            ]
+        },
+        "497.dat": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        "500",
+                        "2500"
+                    ],
+                    "label": "walk"
+                },
+                {
+                    "segment": [
+                        "2500",
+                        "4500"
+                    ],
+                    "label": "sit"
+                },
+                {
+                    "segment": [
+                        "4500",
+                        "6000"
+                    ],
+                    "label": "stand"
+                },
+                {
+                    "segment": [
+                        "6000",
+                        "7500"
+                    ],
+                    "label": "sit"
+                }
+            ]
+        }
+    }
+}

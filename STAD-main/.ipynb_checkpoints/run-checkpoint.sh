@@ -1,0 +1,1 @@
+python tf-logs/STAD-main/all.py

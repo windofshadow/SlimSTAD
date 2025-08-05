@@ -1,0 +1,46 @@
+dataset:
+  num_classes: 8
+  training:
+    video_mp4_path: ../../datasets/thumos14/validation/
+    video_info_path: /root/tf-logs/STAD-main/thumos_annotations/train_behave_info_C.csv
+    video_anno_path: /root/tf-logs/STAD-main/thumos_annotations/train_behave_annotation.csv
+    video_data_path: /root/autodl-tmp/1fa3sou_normal_npy/
+    clip_length: 8500
+    clip_stride: 30
+    crop_size: 96
+  testing:
+    video_mp4_path: ../../datasets/thumos14/test/
+    video_info_path: /root/tf-logs/STAD-main/thumos_annotations/test_behave_info_C.csv
+    video_anno_path: /root/tf-logs/STAD-main/thumos_annotations/test_behave_annotation.csv
+    video_data_path: /root/test/
+    clip_length: 8500
+    clip_stride: 30
+    crop_size: 96
+
+model:
+  in_channels: 1
+  freeze_bn: false
+  freeze_bn_affine: false
+  ConPoolingKernal: [800,20,10,5,3,2,2] # 对锚框中的数据进行卷积池化时卷积核的大小
+  ConfDim_num: 400  # 将粗预测的分类结果转换为特征是特征的维度设置
+  LocDim_num: 100 # 将粗预测的回归结果转换为特征是特征的维度设置
+
+
+training:
+  batch_size: 2
+  learning_rate: 2e-4
+  weight_decay: 1e-4
+  max_epoch: 80
+  focal_loss: true
+  checkpoint_path: /root/tf-logs/STAD-main/models/ # Amend-2_
+  random_seed: 2020
+  save_model_num: [78,79,80]
+testing:
+  conf_thresh: 0
+  top_k: 5000
+  nms_thresh: 0.5 # 0.9
+  nms_sigma: 0.1 # 0.5
+  checkpoint_path: /root/tf-logs/STAD-main/models/ # Amend-2_
+  output_path: /root/tf-logs/STAD-main/output
+  output_json: Amend-3-WIFI.json   # 测试结果的文件名
+
