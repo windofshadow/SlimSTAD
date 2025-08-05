@@ -1,13 +1,31 @@
-# Usage
+# SlimSTAD Project
 
-To get started, first configure your environment using the provided `requirements.txt` file.
+## Usage
 
-After that, navigate to the project's root directory and run the following command in your terminal:
+1. Install dependencies according to `requirements.txt`:
 
-```bash
-python setup.py install
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Install the project:
+
+   ```bash
+   python setup.py install
+   ```
+
+## Notes
+
+Before running, you can modify parameters in the configuration file located at:
+
+```
+/STAD-main/configs/thumos14.yaml
 ```
 
-# Notes
+Then, execute the following script from the project root:
 
-Before running, you can adjust the parameters in the `/SlimSTAD-mian/configs/thumos14.yaml` file. The project has been tested and is known to run on Linux machines with multiple GPUs by executing the `./SlimSTAD-main/run.sh` script.
+```bash
+./STAD-main/run.sh
+```
+
+This setup has been tested and is confirmed to work on a Linux system.
